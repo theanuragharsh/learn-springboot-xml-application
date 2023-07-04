@@ -9,6 +9,6 @@ package com.LearnSpringBootApplication.springin5steps;
 public class XmlJdbcConnection {
 
     public XmlJdbcConnection() {
-        System.out.println("XML JDBC Connection");
+        System.out.println("XML-JDBC-Connection");
     }
 }
